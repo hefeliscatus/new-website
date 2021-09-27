@@ -188,7 +188,7 @@ return(
       
     </div>
     <div className="ml-lg-5 p-4">
-    <h1 className="mb-3 h1 font-weight-800">The most advanced installer ever!</h1>
+    <h1 className="mb-3 hh1 font-weight-800">The most advanced installer ever!</h1>
 <h3 className="ml-1 h3 mb-4">With RebornOS you decide what's installed.</h3>
 <ul style={{color: "#7b69c8" }}>
 <li><h4>Pick from 13 desktops & window managers</h4></li>
